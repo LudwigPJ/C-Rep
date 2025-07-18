@@ -1,0 +1,14 @@
+C:\Users\Михаил\source\repos\TestGame\TestGame\bin\Debug\net8.0\TestGame.exe
+C:\Users\Михаил\source\repos\TestGame\TestGame\bin\Debug\net8.0\TestGame.deps.json
+C:\Users\Михаил\source\repos\TestGame\TestGame\bin\Debug\net8.0\TestGame.runtimeconfig.json
+C:\Users\Михаил\source\repos\TestGame\TestGame\bin\Debug\net8.0\TestGame.dll
+C:\Users\Михаил\source\repos\TestGame\TestGame\bin\Debug\net8.0\TestGame.pdb
+C:\Users\Михаил\source\repos\TestGame\TestGame\obj\Debug\net8.0\TestGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\source\repos\TestGame\TestGame\obj\Debug\net8.0\TestGame.AssemblyInfoInputs.cache
+C:\Users\Михаил\source\repos\TestGame\TestGame\obj\Debug\net8.0\TestGame.AssemblyInfo.cs
+C:\Users\Михаил\source\repos\TestGame\TestGame\obj\Debug\net8.0\TestGame.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\TestGame\TestGame\obj\Debug\net8.0\TestGame.dll
+C:\Users\Михаил\source\repos\TestGame\TestGame\obj\Debug\net8.0\refint\TestGame.dll
+C:\Users\Михаил\source\repos\TestGame\TestGame\obj\Debug\net8.0\TestGame.pdb
+C:\Users\Михаил\source\repos\TestGame\TestGame\obj\Debug\net8.0\TestGame.genruntimeconfig.cache
+C:\Users\Михаил\source\repos\TestGame\TestGame\obj\Debug\net8.0\ref\TestGame.dll
