@@ -18,7 +18,7 @@ namespace TestGame.Ships
         }
         public override string ToString()
         {
-            return $"BattleShip:\t {name},\t Speed: {speed},\t Armor: {armor},\t Agility: {agility},\t Power: {power}";
+            return $"CargoShip:\t {name},\t Speed: {speed},\t Armor: {armor},\t Agility: {agility},\t Power: {power}";
         }
     }
 }
