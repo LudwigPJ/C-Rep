@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\C#\\C-Rep\\TaskForC#\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6D4B30C2-E9C9-4CF3-A339-1AC289574DC7}|TestGame\\TestGame.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\c#\\c-rep\\taskforc#\\testgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4B30C2-E9C9-4CF3-A339-1AC289574DC7}|TestGame\\TestGame.csproj|solutionrelative:testgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4B30C2-E9C9-4CF3-A339-1AC289574DC7}|TestGame\\TestGame.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\c#\\c-rep\\taskforc#\\testgame\\ships\\scouship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4B30C2-E9C9-4CF3-A339-1AC289574DC7}|TestGame\\TestGame.csproj|solutionrelative:testgame\\ships\\scouship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4B30C2-E9C9-4CF3-A339-1AC289574DC7}|TestGame\\TestGame.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\c#\\c-rep\\taskforc#\\testgame\\rout\\asteroidfieldroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4B30C2-E9C9-4CF3-A339-1AC289574DC7}|TestGame\\TestGame.csproj|solutionrelative:testgame\\rout\\asteroidfieldroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6D4B30C2-E9C9-4CF3-A339-1AC289574DC7}|TestGame\\TestGame.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\c#\\c-rep\\taskforc#\\testgame\\ships\\cargoship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D4B30C2-E9C9-4CF3-A339-1AC289574DC7}|TestGame\\TestGame.csproj|solutionrelative:testgame\\ships\\cargoship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{6D4B30C2-E9C9-4CF3-A339-1AC289574DC7}|TestGame\\TestGame.csproj|solutionrelative:testgame\\ships\\spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D4B30C2-E9C9-4CF3-A339-1AC289574DC7}|TestGame\\TestGame.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\c#\\c-rep\\taskforc#\\testgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D4B30C2-E9C9-4CF3-A339-1AC289574DC7}|TestGame\\TestGame.csproj|solutionrelative:testgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6D4B30C2-E9C9-4CF3-A339-1AC289574DC7}|TestGame\\TestGame.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\c#\\c-rep\\taskforc#\\testgame\\rout\\spacerout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D4B30C2-E9C9-4CF3-A339-1AC289574DC7}|TestGame\\TestGame.csproj|solutionrelative:testgame\\rout\\spacerout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D4B30C2-E9C9-4CF3-A339-1AC289574DC7}|TestGame\\TestGame.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\c#\\c-rep\\taskforc#\\testgame\\rout\\asteroidfieldroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D4B30C2-E9C9-4CF3-A339-1AC289574DC7}|TestGame\\TestGame.csproj|solutionrelative:testgame\\rout\\asteroidfieldroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D4B30C2-E9C9-4CF3-A339-1AC289574DC7}|TestGame\\TestGame.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\c#\\c-rep\\taskforc#\\testgame\\rout\\hyperspaceroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6D4B30C2-E9C9-4CF3-A339-1AC289574DC7}|TestGame\\TestGame.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\c#\\c-rep\\taskforc#\\testgame\\rout\\normalspacerout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D4B30C2-E9C9-4CF3-A339-1AC289574DC7}|TestGame\\TestGame.csproj|solutionrelative:testgame\\rout\\normalspacerout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D4B30C2-E9C9-4CF3-A339-1AC289574DC7}|TestGame\\TestGame.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\c#\\c-rep\\taskforc#\\testgame\\ships\\scouship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D4B30C2-E9C9-4CF3-A339-1AC289574DC7}|TestGame\\TestGame.csproj|solutionrelative:testgame\\ships\\scouship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "NormalSpaceRout.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\C#\\C-Rep\\TaskForC#\\TestGame\\Rout\\NormalSpaceRout.cs",
               "RelativeDocumentMoniker": "TestGame\\Rout\\NormalSpaceRout.cs",
@@ -62,12 +62,11 @@
               "RelativeToolTip": "TestGame\\Rout\\NormalSpaceRout.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T16:29:05.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T16:29:05.866Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "HyperspaceRoute.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\C#\\C-Rep\\TaskForC#\\TestGame\\Rout\\HyperspaceRoute.cs",
               "RelativeDocumentMoniker": "TestGame\\Rout\\HyperspaceRoute.cs",
@@ -75,12 +74,11 @@
               "RelativeToolTip": "TestGame\\Rout\\HyperspaceRoute.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T16:28:36.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T16:28:36.784Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "AsteroidFieldRoute.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\C#\\C-Rep\\TaskForC#\\TestGame\\Rout\\AsteroidFieldRoute.cs",
               "RelativeDocumentMoniker": "TestGame\\Rout\\AsteroidFieldRoute.cs",
@@ -93,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "NebulaRoute.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\C#\\C-Rep\\TaskForC#\\TestGame\\Rout\\NebulaRoute.cs",
               "RelativeDocumentMoniker": "TestGame\\Rout\\NebulaRoute.cs",
@@ -101,12 +99,11 @@
               "RelativeToolTip": "TestGame\\Rout\\NebulaRoute.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T16:26:51.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T16:26:51.413Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "SpaceRout.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\C#\\C-Rep\\TaskForC#\\TestGame\\Rout\\SpaceRout.cs",
               "RelativeDocumentMoniker": "TestGame\\Rout\\SpaceRout.cs",
@@ -114,12 +111,11 @@
               "RelativeToolTip": "TestGame\\Rout\\SpaceRout.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T16:25:54.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T16:25:54.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CargoShip.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\C#\\C-Rep\\TaskForC#\\TestGame\\Ships\\CargoShip.cs",
               "RelativeDocumentMoniker": "TestGame\\Ships\\CargoShip.cs",
@@ -132,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "BattleShip.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\C#\\C-Rep\\TaskForC#\\TestGame\\Ships\\BattleShip.cs",
               "RelativeDocumentMoniker": "TestGame\\Ships\\BattleShip.cs",
@@ -140,12 +136,11 @@
               "RelativeToolTip": "TestGame\\Ships\\BattleShip.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T16:15:04.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T16:15:04.321Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "ScouShip.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\C#\\C-Rep\\TaskForC#\\TestGame\\Ships\\ScouShip.cs",
               "RelativeDocumentMoniker": "TestGame\\Ships\\ScouShip.cs",
@@ -153,11 +148,12 @@
               "RelativeToolTip": "TestGame\\Ships\\ScouShip.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T16:10:02.603Z"
+              "WhenOpened": "2025-07-17T16:10:02.603Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "SpaceShip.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\C#\\C-Rep\\TaskForC#\\TestGame\\Ships\\SpaceShip.cs",
               "RelativeDocumentMoniker": "TestGame\\Ships\\SpaceShip.cs",
@@ -165,18 +161,17 @@
               "RelativeToolTip": "TestGame\\Ships\\SpaceShip.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T16:03:38.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T16:03:38.099Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\C#\\C-Rep\\TaskForC#\\TestGame\\Program.cs",
               "RelativeDocumentMoniker": "TestGame\\Program.cs",
               "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\C#\\C-Rep\\TaskForC#\\TestGame\\Program.cs",
               "RelativeToolTip": "TestGame\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T15:59:43.879Z",
               "EditorCaption": ""
